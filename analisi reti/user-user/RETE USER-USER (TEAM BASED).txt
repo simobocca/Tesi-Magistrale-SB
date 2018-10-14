@@ -1,0 +1,16 @@
+RETE USER-USER (TEAM BASED):
+	
+	Nodes: 10335
+	Edges: 35651
+
+	Average Degree: 6,899
+
+	Diameter: 19
+	Radius: 1
+	Average Path length: 5.955165314965141
+
+	Number of Weakly Connected Components: 1994
+	
+	Average Clustering Coefficient: 0,970
+	Total triangles: 185660
+	The Average Clustering Coefficient is the mean value of individual coefficients.
