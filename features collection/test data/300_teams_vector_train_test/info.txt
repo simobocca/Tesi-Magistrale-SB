@@ -1,0 +1,2 @@
+test set size = 200
+train test size = 100

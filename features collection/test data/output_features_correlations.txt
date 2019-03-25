@@ -1,0 +1,488 @@
+shot_diversity - string encoding error:los ángeles
+0
+1
+2
+3
+Format error in skill string
+4
+5
+shot_diversity - string encoding error:resumé
+shot_diversity - string encoding error:resumé
+shot_diversity - string encoding error:resumé
+6
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+7
+8
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+9
+shot_diversity - string encoding error:אאא
+10
+shot_diversity - string encoding error:resumé
+shot_diversity - string encoding error:🍑
+11
+shot_diversity - string encoding error:kévin
+12
+shot_diversity - string encoding error:çava
+13
+14
+15
+16
+shot_diversity - string encoding error:90º
+17
+18
+19
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+20
+21
+22
+23
+shot_diversity - string encoding error:mönjä
+shot_diversity - string encoding error:笑
+shot_diversity - string encoding error:esbå
+shot_diversity - string encoding error:ö
+shot_diversity - string encoding error:pöhinä
+shot_diversity - string encoding error:pöhinää
+24
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:pokémon
+shot_diversity - string encoding error:📺
+25
+26
+user_rank: user without skills
+user_rank: user without skills
+user-diversity: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:Сastle
+shot_diversity - string encoding error:Сyclists illustration
+shot_diversity - string encoding error:Сastle illustration
+shot_diversity - string encoding error:Сlothes
+shot_diversity - string encoding error:Сoworking
+shot_diversity - string encoding error:Сhemical laboratory
+shot_diversity - string encoding error:сafe
+shot_diversity - string encoding error:serviсe
+shot_diversity - string encoding error:new year Сard
+shot_diversity - string encoding error:brandenburg gateб capital
+shot_diversity - string encoding error:suitcaseб flat
+shot_diversity - string encoding error:вкгь
+27
+28
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:Сomputer
+29
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+30
+31
+32
+33
+34
+user_rank: user without skills
+user_rank: user without skills
+user-diversity: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+user_nskills: user without skills
+35
+shot_diversity - string encoding error:phœnix
+shot_diversity - string encoding error:œ
+36
+37
+38
+shot_diversity - string encoding error:aperçu
+39
+user_rank: user without skills
+user_rank: user without skills
+user-diversity: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:საქართველო
+shot_diversity - string encoding error:შრიფტი
+shot_diversity - string encoding error:ხევსურეთი
+shot_diversity - string encoding error:ეივონი
+shot_diversity - string encoding error:ლოგო
+shot_diversity - string encoding error:ქართული
+shot_diversity - string encoding error:შრიფტი
+shot_diversity - string encoding error:წარწერა
+shot_diversity - string encoding error:ბოლდი
+shot_diversity - string encoding error:მილიონი
+shot_diversity - string encoding error:ქართული
+shot_diversity - string encoding error:ყვითელი
+shot_diversity - string encoding error:შრიფტი
+shot_diversity - string encoding error:მაქცია
+shot_diversity - string encoding error:მორგი
+shot_diversity - string encoding error:ადაპტაცია
+shot_diversity - string encoding error:ლოგო
+shot_diversity - string encoding error:ლოგოტიპი
+shot_diversity - string encoding error:პელე
+shot_diversity - string encoding error:ფონტი
+shot_diversity - string encoding error:ყავა
+shot_diversity - string encoding error:შრიფტი
+shot_diversity - string encoding error:სონი
+shot_diversity - string encoding error:exupéry
+shot_diversity - string encoding error:exupéry
+shot_diversity - string encoding error:bär
+40
+shot_diversity - string encoding error:  results
+shot_diversity - string encoding error:día de los muertos
+41
+42
+43
+44
+45
+46
+user_rank: user without skills
+user_rank: user without skills
+user-diversity: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:ui，gif
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:clean，sketch，free，
+shot_diversity - string encoding error:(night）
+shot_diversity - string encoding error:logo、
+shot_diversity - string encoding error:logo、app
+shot_diversity - string encoding error:banner，logo，chinese，type，clean
+shot_diversity - string encoding error:color，font
+shot_diversity - string encoding error:logo、app
+shot_diversity - string encoding error:logo、app
+shot_diversity - string encoding error:character，theory
+shot_diversity - string encoding error:color，type
+shot_diversity - string encoding error:，
+shot_diversity - string encoding error:color，store
+shot_diversity - string encoding error:style，type，clean
+shot_diversity - string encoding error:color，store
+shot_diversity - string encoding error:style，type，clean
+shot_diversity - string encoding error:store，illustration，font，chinese，
+shot_diversity - string encoding error:illustration，
+shot_diversity - string encoding error:logo，font，chinese，type，banner
+shot_diversity - string encoding error:illustration，
+shot_diversity - string encoding error:logo，font，chinese，type，
+shot_diversity - string encoding error:illustration，
+shot_diversity - string encoding error:logo，font，chinese，type，
+shot_diversity - string encoding error:color；porcelain
+shot_diversity - string encoding error:chromatography，clean
+shot_diversity - string encoding error:color，typography
+shot_diversity - string encoding error:frame，font，loading，animations
+shot_diversity - string encoding error:color；porcelain
+shot_diversity - string encoding error:style；typesetting；clean；dynamic
+shot_diversity - string encoding error:color；porcelain
+shot_diversity - string encoding error:style；typesetting；clean
+shot_diversity - string encoding error:color；porcelain
+shot_diversity - string encoding error:style；typesetting；clean
+shot_diversity - string encoding error:color；porcelain
+shot_diversity - string encoding error:style；typesetting；clean
+shot_diversity - string encoding error:color；porcelain
+shot_diversity - string encoding error:style；typesetting；clean
+shot_diversity - string encoding error:design，yellow，
+shot_diversity - string encoding error:logo，art
+shot_diversity - string encoding error:studio，painting，chinese，font
+shot_diversity - string encoding error:chromatography，clean
+shot_diversity - string encoding error:color，typography
+shot_diversity - string encoding error:frame，font，loading，animations
+shot_diversity - string encoding error:chromatography，clean
+shot_diversity - string encoding error:color，typography
+shot_diversity - string encoding error:traditional，frame
+shot_diversity - string encoding error:app，typesetting，clean
+shot_diversity - string encoding error:color，green，font
+shot_diversity - string encoding error:design，chinese
+
+shot_diversity - string encoding error:chromatography，clean
+shot_diversity - string encoding error:color，typography
+shot_diversity - string encoding error:traditional，frame
+shot_diversity - string encoding error:app，jordan，adidas，details
+shot_diversity - string encoding error:sneaker，shopping
+shot_diversity - string encoding error:app，typesetting，clean
+shot_diversity - string encoding error:color，green，font
+shot_diversity - string encoding error:design，chinese
+shot_diversity - string encoding error:app，typesetting，clean
+shot_diversity - string encoding error:color，green，font
+shot_diversity - string encoding error:design，chinese
+shot_diversity - string encoding error:chromatography，clean
+shot_diversity - string encoding error:color，typography
+shot_diversity - string encoding error:frame，font
+shot_diversity - string encoding error:chromatography，clean
+shot_diversity - string encoding error:color，typography
+shot_diversity - string encoding error:traditional，frame
+shot_diversity - string encoding error:color，
+shot_diversity - string encoding error:，clean
+shot_diversity - string encoding error:design，illustration
+shot_diversity - string encoding error:logo，font
+shot_diversity - string encoding error:design，dynamic
+shot_diversity - string encoding error:effect，banner
+shot_diversity - string encoding error:ui，material
+shot_diversity - string encoding error:ui，material
+shot_diversity - string encoding error:banner，font
+shot_diversity - string encoding error:design，dynamic
+shot_diversity - string encoding error:design，
+shot_diversity - string encoding error:dynamic，banner
+shot_diversity - string encoding error:design，dynamic
+shot_diversity - string encoding error:effect，banner
+shot_diversity - string encoding error:hello，empty  illustration
+shot_diversity - string encoding error:illustration／ui
+shot_diversity - string encoding error:illustration／ui
+shot_diversity - string encoding error:illustration／ui
+shot_diversity - string encoding error:illustration／ui
+shot_diversity - string encoding error:illustration／ui
+shot_diversity - string encoding error:illustration／ui
+shot_diversity - string encoding error:illustration／ui
+shot_diversity - string encoding error:illustration／ui
+shot_diversity - string encoding error:illustration／ui
+shot_diversity - string encoding error:illustrations／ui
+47
+48
+shot_diversity - string encoding error:münchen
+shot_diversity - string encoding error:münchen
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+shot_diversity - string encoding error:göteborg
+59
+shot_diversity - string encoding error:aplicación
+shot_diversity - string encoding error:diseño
+shot_diversity - string encoding error:aplicación
+shot_diversity - string encoding error:diseño
+shot_diversity - string encoding error:aplicación
+shot_diversity - string encoding error:diseño
+shot_diversity - string encoding error:aplicación
+shot_diversity - string encoding error:diseño
+shot_diversity - string encoding error:aplicación
+shot_diversity - string encoding error:diseño
+60
+61
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:pokémon
+shot_diversity - string encoding error:açai
+62
+63
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:mario‬
+shot_diversity - string encoding error:‎animation
+shot_diversity - string encoding error:‎motion graphics
+shot_diversity - string encoding error:‪‎motion design‬
+shot_diversity - string encoding error:‬ ‎the100dayproject‬
+shot_diversity - string encoding error:aperçu
+shot_diversity - string encoding error:aperçu
+64
+65
+shot_diversity - string encoding error:piñata
+66
+shot_diversity - string encoding error:pokémon
+67
+68
+user_rank: user without skills
+user_rank: user without skills
+user-diversity: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:minimalism，browser
+shot_diversity - string encoding error:minimalism，browser
+69
+70
+71
+72
+73
+74
+75
+Format error in skill string
+shot_diversity - string encoding error:michał piechota
+shot_diversity - string encoding error:poznań
+shot_diversity - string encoding error:pasją
+shot_diversity - string encoding error:żubr
+76
+77
+78
+79
+80
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+81
+82
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:
+83
+84
+85
+86
+shot_diversity - string encoding error:like，comment，friend，message，free
+shot_diversity - string encoding error:app，animate，dynamic
+shot_diversity - string encoding error:ui，show
+shot_diversity - string encoding error:cosmos，illustration
+shot_diversity - string encoding error:off，light
+shot_diversity - string encoding error:on，turn
+shot_diversity - string encoding error:switch，ui，button，turn
+shot_diversity - string encoding error:app，
+shot_diversity - string encoding error:color，blue
+shot_diversity - string encoding error:app，typesetting，clean
+shot_diversity - string encoding error:color，blue，reading，flaticon
+shot_diversity - string encoding error:app，typesetting，clean
+shot_diversity - string encoding error:color，blue，reading
+shot_diversity - string encoding error:app，typesetting，clean
+shot_diversity - string encoding error:color，blue
+shot_diversity - string encoding error:animation，
+shot_diversity - string encoding error:mobile，screen
+shot_diversity - string encoding error:animation，
+shot_diversity - string encoding error:animation，  app
+shot_diversity - string encoding error:animation，
+shot_diversity - string encoding error:app，book，enjoy，ios
+shot_diversity - string encoding error:animation，
+shot_diversity - string encoding error:ux ui registration，onboarding
+shot_diversity - string encoding error:，ios
+shot_diversity - string encoding error:，iphone，mobile，screen
+shot_diversity - string encoding error:万圣节
+shot_diversity - string encoding error:动画
+shot_diversity - string encoding error:南瓜
+shot_diversity - string encoding error:火焰
+shot_diversity - string encoding error:信号
+shot_diversity - string encoding error:动画
+shot_diversity - string encoding error:噪波
+shot_diversity - string encoding error:抖动
+shot_diversity - string encoding error:电视
+shot_diversity - string encoding error:万圣节
+shot_diversity - string encoding error:光
+shot_diversity - string encoding error:动画
+shot_diversity - string encoding error:屁股
+shot_diversity - string encoding error:烟雾
+shot_diversity - string encoding error:电视
+shot_diversity - string encoding error:袜子
+shot_diversity - string encoding error:闪烁
+shot_diversity - string encoding error:stereo ，glasses
+shot_diversity - string encoding error:sunglasses ， colors
+shot_diversity - string encoding error:ui， animation design
+shot_diversity - string encoding error:web design，
+shot_diversity - string encoding error:web，alphabetic effects
+shot_diversity - string encoding error:ui， animation design
+shot_diversity - string encoding error:web design，
+shot_diversity - string encoding error:web，alphabetic effects
+shot_diversity - string encoding error:ui， animation design
+shot_diversity - string encoding error:web design，
+shot_diversity - string encoding error:web，alphabetic effects
+shot_diversity - string encoding error:拍摄
+shot_diversity - string encoding error:哈哈哈哈哈哈哈哈哈
+shot_diversity - string encoding error:哈哈哈哈哈哈哈哈
+shot_diversity - string encoding error:哈哈哈哈哈哈哈哈哈
+shot_diversity - string encoding error:哈哈哈哈哈哈哈哈哈
+shot_diversity - string encoding error:哈哈哈哈哈哈
+shot_diversity - string encoding error:插画
+87
+shot_diversity - string encoding error:Кто
+shot_diversity - string encoding error:игра
+shot_diversity - string encoding error:миллионером
+shot_diversity - string encoding error:стать
+shot_diversity - string encoding error:хочет
+shot_diversity - string encoding error:Кто
+shot_diversity - string encoding error:игра
+shot_diversity - string encoding error:миллионером
+shot_diversity - string encoding error:стать
+shot_diversity - string encoding error:хочет
+shot_diversity - string encoding error:Коран
+shot_diversity - string encoding error:Кулиев
+shot_diversity - string encoding error:Ислам
+shot_diversity - string encoding error:дуа
+shot_diversity - string encoding error:крепость
+
+shot_diversity - string encoding error:мусульманина
+88
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:„table view
+shot_diversity - string encoding error:🕺
+89
+user_rank: user without skills
+user-diversity: user without skills
+user_nskills: user without skills
+shot_diversity - string encoding error:上海
+shot_diversity - string encoding error:中国
+shot_diversity - string encoding error:上海
+shot_diversity - string encoding error:中国
+shot_diversity - string encoding error:亚洲
+90
+91
+92
+93
+shot_diversity - string encoding error:color，flowers
+shot_diversity - string encoding error:yellow，red，animation
+shot_diversity - string encoding error:yellow，red，animation
+shot_diversity - string encoding error:yellow，red，animation
+shot_diversity - string encoding error:animation，movie，orange，color
+shot_diversity - string encoding error:animation，movie，orange，color
+shot_diversity - string encoding error:animation，movie，orange，color
+shot_diversity - string encoding error:animation，movie，orange，color
+shot_diversity - string encoding error:festival，onboarding
+shot_diversity - string encoding error:typography，ae
+shot_diversity - string encoding error:interface，md，live
+shot_diversity - string encoding error:design，interface，ui，ux
+shot_diversity - string encoding error:，design
+shot_diversity - string encoding error:interface，md
+shot_diversity - string encoding error:take pictures，ui design
+shot_diversity - string encoding error:ui design，dynamic effect
+shot_diversity - string encoding error:ui design，dynamic effect，md
+shot_diversity - string encoding error:ui design，dynamic effect，photo
+shot_diversity - string encoding error:interface，md
+shot_diversity - string encoding error:take pictures，ui design
+shot_diversity - string encoding error:interface，md
+shot_diversity - string encoding error:take pictures，ui design
+shot_diversity - string encoding error:，mbe
+shot_diversity - string encoding error:，motion，cup
+shot_diversity - string encoding error:calendar；interface
+shot_diversity - string encoding error:；
+shot_diversity - string encoding error:cannon，spear，drum，gunpowder
+shot_diversity - string encoding error:drinks，cheer tmgk
+94
+shot_diversity - string encoding error:飞机拉线儿了
+shot_diversity - string encoding error:转转
+shot_diversity - string encoding error:引导页小动效
+shot_diversity - string encoding error:暴躁的圣诞老人／
+95
+96
+97
+98
+99
+CPU times: user 3min 38s, sys: 23.5 s, total: 4min 1s
+Wall time: 1h 4min 49s

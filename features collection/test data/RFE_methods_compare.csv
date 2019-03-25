@@ -1,0 +1,22 @@
+,Corr.,Lasso,Linear reg,Mean,RF,RFE,Ridge,Stability
+team_avg_users_avg_shots_diversity,0.46,0.0,0.0,0.2,0.01,0.0,0.0,0.96
+team_avg_users_avg_shots_ncomments,0.02,0.0,0.0,0.23,0.01,0.53,0.1,0.93
+team_avg_users_avg_shots_nlikes,0.3,0.0,0.0,0.49,0.26,0.88,1.0,0.97
+team_avg_users_avg_shots_ntags,0.0,0.0,0.0,0.28,0.04,0.94,0.02,0.94
+team_avg_users_avg_shots_nviews,1.0,0.0,0.0,0.52,1.0,0.47,0.15,1.0
+team_avg_users_avg_shots_ranking,0.0,0.0,0.0,0.17,0.03,0.18,0.01,0.98
+team_avg_users_diversity,0.02,0.0,0.0,0.29,0.06,0.71,0.3,0.94
+team_avg_users_in_degree,0.05,0.0,0.0,0.21,0.0,0.41,0.05,0.98
+team_avg_users_nfollowers,0.0,0.0,0.0,0.21,0.01,0.35,0.17,0.91
+team_avg_users_nfollowings,0.2,0.0,0.0,0.2,0.2,0.06,0.0,0.97
+team_avg_users_nshot,0.18,0.58,0.71,0.49,0.05,1.0,0.0,0.92
+team_avg_users_nskills,0.0,0.0,0.0,0.32,0.0,0.82,0.5,0.92
+team_avg_users_out_degree,0.28,0.0,0.0,0.22,0.02,0.29,0.02,0.92
+team_avg_users_rank,0.0,0.0,0.0,0.17,0.0,0.24,0.02,0.95
+team_betweenness_centrality,0.12,0.0,0.46,0.26,0.05,1.0,0.0,0.18
+team_closeness_centrality,0.37,1.0,1.0,0.63,0.01,1.0,0.0,1.0
+team_degree,0.5,0.0,0.0,0.38,0.06,0.65,0.48,0.99
+team_degree_centrality,0.12,0.0,0.0,0.13,0.03,0.59,0.16,0.0
+team_eigenvector_centrality,0.09,0.01,0.01,0.3,0.0,1.0,0.02,0.98
+team_nusers,0.0,0.0,0.0,0.16,0.03,0.12,0.01,0.97
+team_pagerank,0.01,0.01,0.01,0.29,0.0,1.0,0.1,0.93
